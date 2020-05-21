@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">padtm_lab6</string>
+    <string name="title_activity_games_list">GamesList</string>
+
+    <!-- Strings used for game -->
+    <string name="refresh">Pobieranie listy gier</string>
+    <string name="your_turn">Twoja kolej.\nWybierz kolumnę by dodać swój krążek.\n\n</string>
+    <string name="wait">Poczekaj na przeciwnika.\nRegularnie odświeżaj planszę.\n\n</string>
+    <string name="error">Ruch niemożliwy.\nSpróbuj ponownie.\n\n</string>
+    <string name="connection">Trwa przesyłanie danych na serwer.\nPoczekaj chwilkę.\n\n</string>
+    <string name="network_error">Wystąpił błąd z siecią.\nWróć do listy dostępnych gier.\n\n</string>
+    <string name="new_game">Rozpocznij nową grę (id wyswietli sie po wykonaniu ruchu).\nWybierz kolumnę by dodać swój krążek.\n\n</string>
+    <string name="empty_list">Niestety brak gier, w które mógłbyś zagrać.\nUtwórz nową!</string>
+    <string name="win">Gratulacje, wygrałeś tą rozgrywkę.\nZagraj ponownie!</string>
+    <string name="lose">Niestety, przegrałeś tą rozgrywkę.\nZagraj ponownie!</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
